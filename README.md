@@ -12,7 +12,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 align="left">🧠 Skills & Tech I Use</h2>
 
