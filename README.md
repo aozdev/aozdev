@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there, I'm Arda</h2>
+<h2 align="left">Hey there, I'm Arda</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 ###
 
 
-<h2 align="left">🧠 Skills & Tech I Use</h2>
+<h2 align="left">Skills & Tech I Use</h2>
 
 ###
 
