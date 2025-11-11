@@ -1,4 +1,4 @@
-<h2 align="left">Hey there, I'm Arda Ozturk</h2>
+<h2 align="left">Hey there, I'm Arda</h2>
 
 ###
 
